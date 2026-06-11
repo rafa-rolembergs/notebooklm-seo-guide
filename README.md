@@ -48,6 +48,15 @@ https://lilyray.nyc
 
 Conteúdo especializado em EEAT e Core Updates.
 
+## Fontes em Vídeo
+https://youtu.be/RyJYGpVyl0o?si=hcuPQeAAnUacsb6i
+https://youtu.be/T1iqDNgkxeI?si=SmVhjHh1YzcBcWUK
+https://youtu.be/7DRO4rEIHDk?si=zO2Ko7gfWlwRmnz2
+https://youtu.be/hYoLTazAj9Y?si=mw9f5UBkEyqSoKmR
+https://youtu.be/_R04ySodhGE?si=ylE6JqPlHy8jZVV7
+https://youtu.be/i4jDc58ofH4?si=C6FJagy7qa73JEPW
+
+
 ---
 
 # Testes de Prompts
